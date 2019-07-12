@@ -28,7 +28,7 @@ Open-source apps built with [GatsbyJS](https://www.gatsbyjs.org/).
 
 [GatsbyJS SCSS Starter](https://gatsby-starter-scss.appseed.us/) is an open-source app built with **GatsbyJS** and styled with **SCSS**
 
-![GatsbyJS SCSS Starter - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-scss.jpg?raw=true)
+![GatsbyJS SCSS Starter - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/gatsby-starter-scss/gatsby-starter-scss-intro.gif)
 
 <br />
 
