@@ -20,7 +20,7 @@ Open-source apps built with [GatsbyJS](https://www.gatsbyjs.org/).
 
 [GatsbyJS Tailwind Starter](https://gatsbyjs-starter-tailwindplay.appseed.us/) is an open-source app built with **GatsbyJS** and styled with **Tailwind CSS**
 
-![GatsbyJS Tailwind Starter - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-dimension.jpg?raw=true)
+![GatsbyJS Tailwind Starter - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-tailwind-css.jpg?raw=true)
 
 <br />
 
