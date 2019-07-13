@@ -65,4 +65,4 @@ Open-source apps built with [GatsbyJS](https://www.gatsbyjs.org/).
 <br />
 
 --- 
-Index provided by [AppSeed](https://appseed.us/apps/gatsbyjs)
+Apps coded in [GatsbyJS](https://appseed.us/apps/gatsbyjs) provided by **AppSeed**
