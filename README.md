@@ -1,6 +1,6 @@
 # [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs) 
 
-Open-source apps (free & commercial) coded in [GatsbyJS](https://www.gatsbyjs.org/) actively supported by **AppSeed**
+Open-source apps coded in [GatsbyJS](https://www.gatsbyjs.org/). Actively supported by **[AppSeed](https://appseed.us/apps/gatsbyjs)**
 
 <br />
 
@@ -203,5 +203,4 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-starter-tailwind.ap
 <br />
 
 --- 
-[GatsbyJS Apps](https://appseed.us/apps/gatsbyjs) actively supported by **AppSeed**
-
+[GatsbyJS Apps](https://appseed.us/apps/gatsbyjs) actively supported by **[AppSeed](https://appseed.us/apps/gatsbyjs)**
