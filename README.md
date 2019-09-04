@@ -82,6 +82,78 @@ Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-mul
 
 <br />
 
+## [GatsbyJS Creative](https://appseed.us/apps/gatsbyjs/gatsby-creative)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-creative.appseed.us/), [sources](https://github.com/app-generator/gatsby-creative)
+
+![GatsbyJS Creative - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-creative-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Absurd](https://appseed.us/apps/gatsbyjs/gatsby-absurd)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-absurd.appseed.us/), [sources](https://github.com/app-generator/gatsby-absurd)
+
+![GatsbyJS Absurd - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-absurd-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Directive](https://appseed.us/apps/gatsbyjs/gatsby-html5up-directive)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-directive.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-directive)
+
+![GatsbyJS Directive - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-directive-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Grayscale](https://appseed.us/apps/gatsbyjs/gatsby-html5up-grayscale)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-grayscale.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-grayscale)
+
+![GatsbyJS Grayscale - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-grayscale-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Spectral](https://appseed.us/apps/gatsbyjs/gatsby-html5up-spectral)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-spectral.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-spectral)
+
+![GatsbyJS Spectral - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-spectral-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Stellar](https://appseed.us/apps/gatsbyjs/gatsby-html5up-stellar)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-stellar.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-stellar)
+
+![GatsbyJS Stellar - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-stellar-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Photon](https://appseed.us/apps/gatsbyjs/gatsby-html5up-photon)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-photon.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-photon)
+
+![GatsbyJS Photon - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-photon-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Aerial](https://appseed.us/apps/gatsbyjs/gatsby-html5up-aerial)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-aerial.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-aerial)
+
+![GatsbyJS Aerial - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-aerial-intro.gif?raw=true)
+
+<br />
+
+## [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
+
+Open Source app coded in **GatsbyJS** pattern: [demo](https://jamstack-gatsbyjs-dimension.appseed.us/), [sources](https://github.com/app-generator/gatsbyjs-dimension)
+
+![GatsbyJS Aerial - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-dimension-intro.gif?raw=true)
+
+<br />
+
 --- 
 [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs) actively supported by **AppSeed**
 
