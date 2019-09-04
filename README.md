@@ -1,68 +1,23 @@
-# [GatsbyJS](https://appseed.us/apps/gatsbyjs) 
+# [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs) 
 
-Open-source apps built with [GatsbyJS](https://www.gatsbyjs.org/).
-
-<br />
-
-![GatsbyJS Apps - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-apps-intro.gif?raw=true)
+Open-source apps (free & commercial) coded in [GatsbyJS](https://jamstack.org/) actively supported by **AppSeed**
 
 <br />
 
-## [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
+## What is [Gatsby](https://www.gatsbyjs.org/)
 
-[GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension) is an open-source app built with **GatsbyJS** on top of [HTML5Up Dimension](https://html5up.net/dimension) design.
-
-![GatsbyJS Dimension - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-dimension.jpg?raw=true)
+Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
 
 <br />
 
-## [GatsbyJS Tailwind Starter](https://gatsbyjs-starter-tailwindplay.appseed.us/)
+## [GatsbyJS Eventually](https://appseed.us/apps/gatsbyjs/gatsby-html5up-eventually)
 
-[GatsbyJS Tailwind Starter](https://gatsbyjs-starter-tailwindplay.appseed.us/) is an open-source app built with **GatsbyJS** and styled with **Tailwind CSS**
+Open Source app coded in **GatsbyJS** pattern: [demo](https://gatsby-html5up-eventually.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-eventually)
 
-![GatsbyJS Tailwind Starter - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-tailwind-css.jpg?raw=true)
-
-<br />
-
-## [GatsbyJS SCSS Starter](https://gatsby-starter-scss.appseed.us/)
-
-[GatsbyJS SCSS Starter](https://gatsby-starter-scss.appseed.us/) is an open-source app built with **GatsbyJS** and styled with **SCSS**
-
-![GatsbyJS SCSS Starter - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/gatsby-starter-scss/gatsby-starter-scss-intro.gif)
-
-<br />
-
-## [GatsbyJS Bulma CSS Starter](https://gatsby-starter-bulma-css.appseed.us/)
-
-[GatsbyJS Bulma CSS Starter](https://gatsby-starter-bulma-css.appseed.us/) is an open-source app built with **GatsbyJS** and styled with **Bulma CSS**
-
-![GatsbyJS Bulma CSS Starter - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-bulma-css.jpg?raw=true)
-
-<br />
-
-## [GatsbyJS Bootstrap4 Starter](https://gatsby-starter-bootstrap.appseed.us/)
-
-[GatsbyJS Bootstrap4 Starter](https://gatsby-starter-bootstrap.appseed.us/) is an open-source app built with **GatsbyJS** and styled with **Bootstrap4**
-
-![GatsbyJS Bootstrap4 Starter - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-bootstrap4.jpg?raw=true)
-
-<br />
-
-## [GatsbyJS Css-in-JS Starter](https://gatsby-starter-cssinjs.appseed.us/)
-
-[GatsbyJS Css-in-JS Starter](https://gatsby-starter-cssinjs.appseed.us/) is an open-source app built with **GatsbyJS** and styled with **CSS in JS**
-
-![GatsbyJS Css-in-JS Starter - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-cssinjs.jpg?raw=true)
-
-<br />
-
-## Related Resources
- - [GatsbyJS](https://www.gatsbyjs.org/)
- - [Bulma CSS](https://bulma.io/)
- - [Tailwind CSS](https://tailwindcss.com/)
- - [Bootstrap](https://getbootstrap.com/) 
+![GatsbyJS Eventually - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-eventually-intro.gif?raw=true)
 
 <br />
 
 --- 
-Apps coded in [GatsbyJS](https://appseed.us/apps/gatsbyjs) provided by **AppSeed**
+[GatsbyJS Apps](https://appseed.us/apps/gatsbyjs) actively supported by **AppSeed**
+
