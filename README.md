@@ -10,7 +10,7 @@ Gatsby is a free and open source framework based on React that helps developers 
 
 <br />
 
-## [GatsbyJS Eventually](https://appseed.us/apps/gatsbyjs/gatsby-html5up-eventually)
+## [GatsbyJS Eventually](https://gatsby-html5up-hyperspace.appseed.us/)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-eventually.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-eventually)
 
@@ -18,7 +18,7 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-eventually.
 
 <br />
 
-## [GatsbyJS Hyperspace](https://appseed.us/apps/gatsbyjs/gatsby-html5up-hyperspace)
+## [GatsbyJS Hyperspace](https://gatsby-html5up-hyperspace.appseed.us)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-hyperspace.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-hyperspace)
 
@@ -26,7 +26,7 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-hyperspace.
 
 <br />
 
-## [GatsbyJS Paradigm](https://appseed.us/apps/gatsbyjs/gatsby-html5up-paradigm)
+## [GatsbyJS Paradigm](https://gatsby-html5up-paradigm.appseed.us)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-paradigm.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-paradigm)
 
@@ -34,7 +34,7 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-paradigm.ap
 
 <br />
 
-## [GatsbyJS Solidstate](https://appseed.us/apps/gatsbyjs/gatsby-html5up-solidstate)
+## [GatsbyJS Solid State](https://gatsby-html5up-solidstate.appseed.us)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-solidstate.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-solidstate)
 
@@ -42,7 +42,7 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-solidstate.
 
 <br />
 
-## [GatsbyJS Fashion](https://appseed.us/apps/gatsbyjs/gatsby-fashion-portfolio)
+## [GatsbyJS Fashion](https://gatsby-fashion-portfolio.appseed.us)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-fashion-portfolio.appseed.us/), [sources](https://github.com/app-generator/gatsby-fashion-portfolio)
 
@@ -66,7 +66,7 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-highlights.
 
 <br />
 
-## [GatsbyJS Fractal](https://appseed.us/apps/gatsbyjs/gatsby-html5up-fractal)
+## [GatsbyJS Fractal](https://gatsby-html5up-fractal.appseed.us)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-fractal.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-fractal)
 
@@ -74,7 +74,7 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-fractal.app
 
 <br />
 
-## [GatsbyJS Multiverse](https://appseed.us/apps/gatsbyjs/gatsby-html5up-multiverse)
+## [GatsbyJS Multiverse](https://gatsby-html5up-multiverse.appseed.us)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-multiverse.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-multiverse)
 
@@ -82,7 +82,7 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-multiverse.
 
 <br />
 
-## [GatsbyJS Creative](https://appseed.us/apps/gatsbyjs/gatsby-creative)
+## [GatsbyJS Creative](https://gatsby-creative.appseed.us)
 
 Open Source app coded in **GatsbyJS**: [demo](https://gatsby-creative.appseed.us/), [sources](https://github.com/app-generator/gatsby-creative)
 
@@ -90,9 +90,9 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-creative.appseed.us
 
 <br />
 
-## [GatsbyJS Absurd](https://appseed.us/apps/gatsbyjs/gatsby-absurd)
+## [GatsbyJS Absurd](https://gatsby-creative.appseed.us)
 
-Open Source app coded in **GatsbyJS**: [demo](https://gatsby-absurd.appseed.us/), [sources](https://github.com/app-generator/gatsby-absurd)
+Open Source app coded in **GatsbyJS**: [demo](c/), [sources](https://github.com/app-generator/gatsby-absurd)
 
 ![GatsbyJS Absurd - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-absurd-intro.gif?raw=true)
 
