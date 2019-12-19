@@ -10,9 +10,9 @@ Gatsby is a free and open source framework based on React that helps developers 
 
 <br />
 
-## [GatsbyJS Eventually](https://gatsby-html5up-hyperspace.appseed.us/)
+## [GatsbyJS Eventually](https://appseed.us/apps/gatsbyjs/gatsby-html5up-eventually)
 
-Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-eventually.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-eventually)
+Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-eventually.appseed.us/), [product page](https://appseed.us/apps/gatsbyjs/gatsby-html5up-eventually)
 
 ![GatsbyJS Eventually - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-eventually-intro.gif?raw=true)
 
