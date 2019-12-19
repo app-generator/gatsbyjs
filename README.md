@@ -34,9 +34,9 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-paradigm.ap
 
 <br />
 
-## [GatsbyJS Solid State](https://gatsby-html5up-solidstate.appseed.us)
+## [GatsbyJS Solid State](https://appseed.us/apps/gatsbyjs/gatsby-html5up-solidstate)
 
-Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-solidstate.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-solidstate)
+Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-solidstate.appseed.us/), [product page](https://appseed.us/apps/gatsbyjs/gatsby-html5up-solidstate)
 
 ![GatsbyJS Solidstate - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-solidstate-intro.gif?raw=true)
 
