@@ -26,9 +26,9 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-hyperspace.
 
 <br />
 
-## [GatsbyJS Paradigm](https://gatsby-html5up-paradigm.appseed.us)
+## [GatsbyJS Paradigm](https://appseed.us/apps/gatsbyjs/gatsby-html5up-paradigm)
 
-Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-paradigm.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-paradigm)
+Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-paradigm.appseed.us/), [product page](https://appseed.us/apps/gatsbyjs/gatsby-html5up-paradigm)
 
 ![GatsbyJS Paradigm - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-paradigm-intro.gif?raw=true)
 
