@@ -42,9 +42,9 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-solidstate.
 
 <br />
 
-## [GatsbyJS Fashion](https://gatsby-fashion-portfolio.appseed.us)
+## [GatsbyJS Fashion](https://appseed.us/apps/gatsbyjs/gatsby-fashion-portfolio)
 
-Open Source app coded in **GatsbyJS**: [demo](https://gatsby-fashion-portfolio.appseed.us/), [sources](https://github.com/app-generator/gatsby-fashion-portfolio)
+Open Source app coded in **GatsbyJS**: [demo](https://gatsby-fashion-portfolio.appseed.us/), [product page](https://appseed.us/apps/gatsbyjs/gatsby-fashion-portfolio)
 
 ![GatsbyJS Fashion - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-fashion-portfolio-intro.gif?raw=true)
 
