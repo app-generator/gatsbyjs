@@ -18,9 +18,9 @@ Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-eventually.
 
 <br />
 
-## [GatsbyJS Hyperspace](https://gatsby-html5up-hyperspace.appseed.us)
+## [GatsbyJS Hyperspace](https://appseed.us/apps/gatsbyjs/gatsby-html5up-hyperspace)
 
-Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-hyperspace.appseed.us/), [sources](https://github.com/app-generator/gatsby-html5up-hyperspace)
+Open Source app coded in **GatsbyJS**: [demo](https://gatsby-html5up-hyperspace.appseed.us/), [product page](https://appseed.us/apps/gatsbyjs/gatsby-html5up-hyperspace)
 
 ![GatsbyJS Hyperspace - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-hyperspace-intro.gif?raw=true)
 
